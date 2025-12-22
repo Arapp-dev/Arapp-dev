@@ -17,9 +17,16 @@ Saya fokus mempelajari dan membangun project kecil di bidang **web, dan game dev
 
 ---
 
-<p align="center">💡 Teknologi yang Sedang Dipelajari</p>
+<p align="center">💡 Keahlian yang Sedang Dipelajari</p>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,cs,unity,git,firebase,vscode&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,cs,firebase&theme=dark" />
+</div>
+
+
+---
+<p align="center"> 🛠️ Tools</p>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=unity,git,vscode&theme=dark" />
 </div>
 
 
@@ -28,7 +35,7 @@ Saya fokus mempelajari dan membangun project kecil di bidang **web, dan game dev
 📊 Statistik GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arapp-dev&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arapp-dev&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arapp-dev&layout=compact&theme=tokyonight" height="260"/>
 </p>
 
 ---
@@ -58,7 +65,9 @@ Saya selalu terbuka untuk berdiskusi seputar teknologi dan pembelajaran.
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=0e75b6&style=flat" />
+  Made by arafi
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arapp-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-Made with 💙 by Renan
