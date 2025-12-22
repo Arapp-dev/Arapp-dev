@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1>👋 Halo, saya Arafi</h1>
 
-<!--
-**Arapp-dev/Arapp-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SMK Student | Beginner Programmer | Tech Learner
 
-Here are some ideas to get you started:
+Halo! Saya seorang siswa SMK yang sedang belajar dan mendalami dunia pemrograman. Saya tertarik bagaimana teknologi dapat membantu menyelesaikan masalah dan menciptakan solusi yang bermanfaat. Saya percaya bahwa belajar itu proses jangka panjang yang dibangun dengan konsistensi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ Tentang Perjalanan Saya
+Saya fokus mempelajari dan membangun project kecil di bidang **web, dan game development**. Saya senang bereksperimen dengan hal baru, belajar dari kesalahan, dan terus meningkatkan kemampuan coding serta pemahaman logika.
+
+- 🧠 Mengasah logika dan problem solving  
+- 🛠️ Belajar lewat praktik dan eksperimen  
+- 💬 Terbuka untuk diskusi dan berbagi insight  
+- 🌏 Berbasis di Indonesia  
+
+
+---
+
+<p align="center">💡 Teknologi yang Sedang Dipelajari</p>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,cs,unity,git,firebase,vscode&theme=dark" />
+</div>
+
+
+---
+
+📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arapp-dev&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arapp-dev&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+🔥 Project
+📌 **Project Latihan & Eksperimen**  
+Repository ini berisi hasil belajar, eksperimen, dan project kecil yang saya kerjakan untuk meningkatkan skill secara bertahap.
+
+> Fokus utama: fundamental, logika, dan clean code
+
+---
+
+📈 Aktivitas Saat Ini
+- 🔄 Sedang mengembangkan : Sebuah Game dan website  
+- 🎯 Fokus: Membangun dasar pemrograman yang kuat  
+- 🤖 Tertarik kolaborasi: Web & Game Project  
+
+---
+
+🌟 Mari Terhubung
+Saya selalu terbuka untuk berdiskusi seputar teknologi dan pembelajaran.
+
+- 📱Instagram <a href="https://instagram.com/aarap_1">aarap_1</a>
+- 🌐 GitHub: <a href="https://github.com/Arapp-dev">Arapp-dev</a>
+
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+Made with 💙 by Renan
