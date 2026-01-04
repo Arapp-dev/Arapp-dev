@@ -30,17 +30,6 @@ Saya fokus mempelajari dan membangun project kecil di bidang **web, dan game dev
 </div>
 
 
----
-<p align="center">
-📊 Statistik GitHub
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arapp-dev&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arapp-dev&layout=compact&theme=tokyonight" height="260"/>
-</p>
-
----
-
 🔥 Project
 📌 **Project Latihan & Eksperimen**  
 Repository ini berisi hasil belajar, eksperimen, dan project kecil yang saya kerjakan untuk meningkatkan skill secara bertahap.
