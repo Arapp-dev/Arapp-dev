@@ -6,7 +6,7 @@ Halo! Saya seorang siswa SMK yang sedang belajar dan mendalami dunia pemrograman
 
 ---
 
-✨ 
+✨ Tentang Perjalanan saya
 Saya fokus mempelajari dan membangun project kecil di bidang **web, dan game development**. Saya senang bereksperimen dengan hal baru, belajar dari kesalahan, dan terus meningkatkan kemampuan coding serta pemahaman logika.
 
 - 🧠 Mengasah logika dan problem solving  
