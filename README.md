@@ -17,7 +17,7 @@ Saya fokus mempelajari dan membangun project kecil di bidang **web, dan game dev
 
 ---
 
-<p align="center">💡 Keahlian yang Sedang Dipelajari</p>
+<p align="center">💡 Keahlian yang Sedang Dipelajari Saat Ini</p>
 <div align="center">
  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,cs,tailwind,bootstrap,firebase&theme=dark" />
 </div>
