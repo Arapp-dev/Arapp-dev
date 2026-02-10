@@ -46,7 +46,6 @@ Repository ini berisi hasil belajar, eksperimen, dan project kecil yang saya ker
 ---
 
 🌟 Mari Terhubung
-Saya selalu terbuka untuk berdiskusi seputar teknologi dan pembelajaran.
 
 - 📱Instagram <a href="https://instagram.com/aarap_1">aarap_1</a>
 - 🌐 GitHub: <a href="https://github.com/Arapp-dev">Arapp-dev</a>
