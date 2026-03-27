@@ -34,7 +34,7 @@ Saya fokus mempelajari dan membangun project kecil di bidang **web, dan game dev
 📌 **Project Latihan & Eksperimen**  
 Repository ini berisi hasil belajar, eksperimen, dan project kecil yang saya kerjakan untuk meningkatkan skill secara bertahap.
 
-> Fokus utama: fundamental, logika, efektifitas dan clean code
+> Fokus utama: logika, efektifitas dan clean code
 
 ---
 
