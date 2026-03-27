@@ -7,12 +7,12 @@ Halo! Saya adalah seorang siswa SMK yang sedang belajar dan mendalami dunia pemr
 ---
 
 ✨ Tentang Perjalanan saya
-Saya fokus mempelajari dan membangun project kecil di bidang **web, dan game development**. Saya senang bereksperimen dengan hal baru, belajar dari kesalahan, dan terus meningkatkan kemampuan coding serta pemahaman logika.
+Saya fokus mempelajari dan membangun project kecil di bidang **web, dan game development**. Saya suka bereksperimen dengan hal baru, belajar dari kesalahan, dan terus meningkatkan kemampuan coding serta pemahaman logika.
 
 - 🧠 Mengasah logika dan problem solving  
 - 🛠️ Belajar lewat praktik dan eksperimen  
 - 💬 Terbuka untuk diskusi dan berbagi insight  
-- 🌏 Berbasis di Indonesia  
+- 🌏 Berbasis di Indonesia 
 
 
 ---
