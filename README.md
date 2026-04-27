@@ -1,7 +1,7 @@
 <h1>👋 Halo, saya Arafi</h1>
 
-SMK Student | Beginner Programmer | Tech Learnerryyt
-hfg
+SMK Student | Beginner Programmer | Tech Learner
+
 Halo!! Saya adalah seorang siswa SMK yang sedang belajar dan mendalami dunia pemrograman. Saya tertarik bagaimana teknologi dapat membantu menyelesaikan masalah dan menciptakan solusi yang bermanfaat. Saya percaya bahwa belajar itu proses jangka panjang yang dibangun dengan konsistensi.
 
 ---
