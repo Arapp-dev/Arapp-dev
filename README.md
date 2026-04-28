@@ -1,4 +1,4 @@
-<h1>👋 Hdalo, saya Arafi</h1>
+<h1>👋 Hpdalo, saya Arafi</h1>
 
 SMK Student | Beginner Programmer | Tech Learner
 
