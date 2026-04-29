@@ -1,4 +1,4 @@
-<h1>👋 Halo, saya Arac fcii</h1>
+<h1>👋 Halo, saya Aranfcii</h1>
 
 SMK Student | Beginner Programmer | Tech Learner
 
