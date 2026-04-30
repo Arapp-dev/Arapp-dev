@@ -1,4 +1,4 @@
-<h1>👋 Halok, saya Arafi</h1>
+<h1>👋 Halom, saya Arafi</h1>
 
 SMK Student | Beginner Programmer | Tech Learner
 
