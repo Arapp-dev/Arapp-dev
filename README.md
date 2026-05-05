@@ -1,4 +1,4 @@
-<h1>👋 Halo, sayaa Arakafi</h1>
+<h1>👋 Halo, sayaa Arafi</h1>
 
 SMK Student | Beginner Programmer | Tech Learner
 
