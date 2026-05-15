@@ -1,4 +1,4 @@
-<h1>👋 Halo, saya Arjafi</h1>
+<h1>👋 Halo, saya Arjfafi</h1>
 
 SMK Student | Beginner programmer | Tech Learner
 
